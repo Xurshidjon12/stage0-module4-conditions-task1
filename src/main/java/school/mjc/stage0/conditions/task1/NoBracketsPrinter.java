@@ -5,6 +5,6 @@ public class NoBracketsPrinter {
         if (false) {
             System.out.println("The statement is true");
         }
-        System.out.println("I'm out of checking");
+        System.out.println("");
     }
 }
